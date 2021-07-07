@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/pt/n19d92n43d93/belo-horizonte/" data-label_1="BELO HORIZONTE" data-font="Noto Serif" data-icons="Climacons Animated" data-theme="pure" data-basecolor="#FFFF" data-highcolor="#FF6787" data-lowcolor="#FE8E7B" data-suncolor="#FFB68C" data-mooncolor="#83D9DC" >BELO HORIZONTE</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
